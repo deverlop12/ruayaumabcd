@@ -1,0 +1,15 @@
+{
+  "name": "RUAY",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "RUAY789 เว็บแทงหวยออนไลน์ ที่ให้ราคาดีที่สุดในประเทศไทย ซื้อง่ายรวดเร็ว เป็นเจ้าแรกที่ให้บริการซื้อหวยหลากหลาย ไม่มีเลขอั้น",
+  "keywords": [
+    "RUAY",
+    "เว็บแทงหวยออนไลน์"
+  ],
+  "repository": "https://github.com/deverlop12/ruayaumabcd",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
